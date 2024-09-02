@@ -1,5 +1,3 @@
-![Alt text](https://raw.githubusercontent.com/Imranharun/2300968-11-Imr-Sentiment_Analytics-Platinum/master/logo%20binar/logo%20binar.png)
-
 # Sentiment Analytics Service
 
 This project contains Sentiment Analytics AI for any messages. Its main feature to classify whether a message has **Negative** or **Positive** sentiment in its sentence / message automatically.
